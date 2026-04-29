@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+google-generativeai
+psycopg2-binary
+sqlalchemy
+pymongo
+pyjwt
+sqlparse
+slowapi
+httpx
+pytest
+pytest-asyncio
